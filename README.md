@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mammetmyrat/BerkHasap-releases/main/assets/logo.png" alt="BerkHasap" width="120">
+<img src="https://raw.githubusercontent.com/mammetmyrat/BerkHasap-releases/main/logo.png" alt="BerkHasap" width="120">
 
 # BerkHasap
 
